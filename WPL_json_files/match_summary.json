@@ -1,0 +1,200 @@
+[
+    {
+        "team1": "Gujarat Giants Women",
+        "team2": "Mumbai Indians Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "143 runs",
+        "ground": "DY Patil",
+        "matchDate": "Mar 4, 2023",
+        "matchID": "WT20#1"
+    },
+    {
+        "team1": "Royal Challengers Bangalore Women",
+        "team2": "Delhi Capitals Women",
+        "winner": "Delhi Capitals Women",
+        "margin": "60 runs",
+        "ground": "Brabourne",
+        "matchDate": "Mar 5, 2023",
+        "matchID": "WT20#2"
+    },
+    {
+        "team1": "UP Warriorz Women",
+        "team2": "Gujarat Giants Women",
+        "winner": "UP Warriorz Women",
+        "margin": "3 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 5, 2023",
+        "matchID": "WT20#3"
+    },
+    {
+        "team1": "Mumbai Indians Women",
+        "team2": "Royal Challengers Bangalore Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "9 wickets",
+        "ground": "Brabourne",
+        "matchDate": "Mar 6, 2023",
+        "matchID": "WT20#4"
+    },
+    {
+        "team1": "Delhi Capitals Women",
+        "team2": "UP Warriorz Women",
+        "winner": "Delhi Capitals Women",
+        "margin": "42 runs",
+        "ground": "DY Patil",
+        "matchDate": "Mar 7, 2023",
+        "matchID": "WT20#5"
+    },
+    {
+        "team1": "Gujarat Giants Women",
+        "team2": "Royal Challengers Bangalore Women",
+        "winner": "Gujarat Giants Women",
+        "margin": "11 runs",
+        "ground": "Brabourne",
+        "matchDate": "Mar 8, 2023",
+        "matchID": "WT20#6"
+    },
+    {
+        "team1": "Delhi Capitals Women",
+        "team2": "Mumbai Indians Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "8 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 9, 2023",
+        "matchID": "WT20#7"
+    },
+    {
+        "team1": "Royal Challengers Bangalore Women",
+        "team2": "UP Warriorz Women",
+        "winner": "UP Warriorz Women",
+        "margin": "10 wickets",
+        "ground": "Brabourne",
+        "matchDate": "Mar 10, 2023",
+        "matchID": "WT20#8"
+    },
+    {
+        "team1": "Gujarat Giants Women",
+        "team2": "Delhi Capitals Women",
+        "winner": "Delhi Capitals Women",
+        "margin": "10 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 11, 2023",
+        "matchID": "WT20#9"
+    },
+    {
+        "team1": "UP Warriorz Women",
+        "team2": "Mumbai Indians Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "8 wickets",
+        "ground": "Brabourne",
+        "matchDate": "Mar 12, 2023",
+        "matchID": "WT20#10"
+    },
+    {
+        "team1": "Delhi Capitals Women",
+        "team2": "Royal Challengers Bangalore Women",
+        "winner": "Delhi Capitals Women",
+        "margin": "6 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 13, 2023",
+        "matchID": "WT20#11"
+    },
+    {
+        "team1": "Mumbai Indians Women",
+        "team2": "Gujarat Giants Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "55 runs",
+        "ground": "Brabourne",
+        "matchDate": "Mar 14, 2023",
+        "matchID": "WT20#12"
+    },
+    {
+        "team1": "UP Warriorz Women",
+        "team2": "Royal Challengers Bangalore Women",
+        "winner": "Royal Challengers Bangalore Women",
+        "margin": "5 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 15, 2023",
+        "matchID": "WT20#13"
+    },
+    {
+        "team1": "Delhi Capitals Women",
+        "team2": "Gujarat Giants Women",
+        "winner": "Gujarat Giants Women",
+        "margin": "11 runs",
+        "ground": "Brabourne",
+        "matchDate": "Mar 16, 2023",
+        "matchID": "WT20#14"
+    },
+    {
+        "team1": "Mumbai Indians Women",
+        "team2": "UP Warriorz Women",
+        "winner": "UP Warriorz Women",
+        "margin": "5 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 18, 2023",
+        "matchID": "WT20#15"
+    },
+    {
+        "team1": "Royal Challengers Bangalore Women",
+        "team2": "Gujarat Giants Women",
+        "winner": "Royal Challengers Bangalore Women",
+        "margin": "8 wickets",
+        "ground": "Brabourne",
+        "matchDate": "Mar 18, 2023",
+        "matchID": "WT20#16"
+    },
+    {
+        "team1": "Gujarat Giants Women",
+        "team2": "UP Warriorz Women",
+        "winner": "UP Warriorz Women",
+        "margin": "3 wickets",
+        "ground": "Brabourne",
+        "matchDate": "Mar 20, 2023",
+        "matchID": "WT20#17"
+    },
+    {
+        "team1": "Mumbai Indians Women",
+        "team2": "Delhi Capitals Women",
+        "winner": "Delhi Capitals Women",
+        "margin": "9 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 20, 2023",
+        "matchID": "WT20#18"
+    },
+    {
+        "team1": "Royal Challengers Bangalore Women",
+        "team2": "Mumbai Indians Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "4 wickets",
+        "ground": "DY Patil",
+        "matchDate": "Mar 21, 2023",
+        "matchID": "WT20#19"
+    },
+    {
+        "team1": "UP Warriorz Women",
+        "team2": "Delhi Capitals Women",
+        "winner": "Delhi Capitals Women",
+        "margin": "5 wickets",
+        "ground": "Brabourne",
+        "matchDate": "Mar 21, 2023",
+        "matchID": "WT20#20"
+    },
+    {
+        "team1": "Mumbai Indians Women",
+        "team2": "UP Warriorz Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "72 runs",
+        "ground": "DY Patil",
+        "matchDate": "Mar 24, 2023",
+        "matchID": "WT20#21"
+    },
+    {
+        "team1": "Delhi Capitals Women",
+        "team2": "Mumbai Indians Women",
+        "winner": "Mumbai Indians Women",
+        "margin": "7 wickets",
+        "ground": "Brabourne",
+        "matchDate": "Mar 26, 2023",
+        "matchID": "WT20#22"
+    }
+]
