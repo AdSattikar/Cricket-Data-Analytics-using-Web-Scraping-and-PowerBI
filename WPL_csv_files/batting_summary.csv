@@ -1,0 +1,337 @@
+match,teamInnings,battingPos,battername,runs,balls,4s,6s,SR,out/not_out,matchID
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,1,Yastika Bhatia,1,8,0,0,12.5,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,2,Hayley Matthews,47,31,3,4,151.61,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,3,Nat Sciver-Brunt,23,18,5,0,127.77,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,4,Harmanpreet Kaur,65,30,14,0,216.66,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,5,Amelia Kerr,45,24,6,1,187.5,not_out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,6,Pooja Vastrakar,15,8,3,0,187.5,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,7,Issy Wong,6,1,0,1,600,not_out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,1,Sabbhineni Meghana,2,4,0,0,50,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,2,Beth Mooney,0,3,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,3,Harleen Deol,0,2,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,4,Ashleigh Gardner,0,1,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,5,Annabel Sutherland,6,14,0,0,42.85,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,6,Dayalan Hemalatha,29,23,1,2,126.08,not_out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,7,Georgia Wareham,8,11,2,0,72.72,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,8,Sneh Rana,1,2,0,0,50,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,9,Tanuja Kanwar,0,3,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,10,Mansi Joshi,6,19,0,0,31.57,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,11,Monica Patel,10,9,2,0,111.11,out,WT20#12
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Delhi Capitals Women,1,Meg Lanning,72,43,14,0,167.44,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Delhi Capitals Women,2,Shafali Verma,84,45,10,4,186.66,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Delhi Capitals Women,3,Marizanne Kapp,39,17,3,3,229.41,not_out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Delhi Capitals Women,4,Jemimah Rodrigues,22,15,3,0,146.66,not_out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,1,Smriti Mandhana,35,23,5,1,152.17,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,2,Sophie Devine,14,11,3,0,127.27,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,3,Ellyse Perry,31,19,5,0,163.15,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,4,Disha Kasat,9,11,1,0,81.81,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,5,Richa Ghosh,2,4,0,0,50,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,6,Heather Knight,34,21,2,2,161.9,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,7,Kanika Ahuja,0,1,0,0,0,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,8,Sobhana Asha,2,3,0,0,66.66,out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,9,Megan Schutt,30,19,5,0,157.89,not_out,WT20#11
+Delhi Capitals Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,10,Preeti Bose,2,8,0,0,25,not_out,WT20#11
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,1,Sabbhineni Meghana,24,15,5,0,160,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,2,Sophia Dunkley,13,11,2,0,118.18,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,3,Harleen Deol,46,32,7,0,143.75,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,4,Annabel Sutherland,8,10,1,0,80,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,5,Sushma Verma,9,13,1,0,69.23,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,6,Ashleigh Gardner,25,19,2,1,131.57,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,7,Dayalan Hemalatha,21,13,2,1,161.53,not_out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,8,Sneh Rana,9,7,1,0,128.57,not_out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,1,Alyssa Healy,7,8,1,0,87.5,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,2,Shweta Sehrawat,5,6,1,0,83.33,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,3,Kiran Navgire,53,43,5,2,123.25,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,4,Tahlia McGrath,0,1,0,0,0,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,5,Deepti Sharma,11,16,0,0,68.75,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,6,Grace Harris,59,26,7,3,226.92,not_out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,7,Simran Shaikh,0,1,0,0,0,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,8,Devika Vaidya,4,7,0,0,57.14,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,9,Sophie Ecclestone,22,12,1,1,183.33,not_out,WT20#17
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,1,Smriti Mandhana,23,17,5,0,135.29,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,2,Sophie Devine,16,11,2,1,145.45,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,3,Disha Kasat,0,2,0,0,0,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,4,Ellyse Perry,13,7,1,1,185.71,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,5,Heather Knight,0,1,0,0,0,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,6,Richa Ghosh,28,26,3,1,107.69,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,7,Kanika Ahuja,22,13,3,1,169.23,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,8,Shreyanka Patil,23,15,4,0,153.33,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,9,Megan Schutt,20,14,3,0,142.85,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,10,Renuka Singh,2,5,0,0,40,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,11,Preeti Bose,1,1,0,0,100,not_out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,1,Hayley Matthews,77,38,13,1,202.63,not_out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,2,Yastika Bhatia,23,19,4,0,121.05,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,3,Nat Sciver-Brunt,55,29,9,1,189.65,not_out,WT20#19
+Delhi Capitals Women Vs UP Warriorz Women,Delhi Capitals Women,1,Meg Lanning,70,42,10,3,166.66,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,Delhi Capitals Women,2,Shafali Verma,17,14,1,1,121.42,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,Delhi Capitals Women,3,Marizanne Kapp,16,12,2,0,133.33,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,Delhi Capitals Women,4,Jemimah Rodrigues,34,22,4,0,154.54,not_out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,Delhi Capitals Women,5,Alice Capsey,21,10,1,2,210,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,Delhi Capitals Women,6,Jess Jonassen,42,20,3,3,210,not_out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,UP Warriorz Women,1,Alyssa Healy,24,17,5,0,141.17,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,UP Warriorz Women,2,Shweta Sehrawat,1,6,0,0,16.66,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,UP Warriorz Women,3,Kiran Navgire,2,2,0,0,100,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,UP Warriorz Women,4,Tahlia McGrath,90,50,11,4,180,not_out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,UP Warriorz Women,5,Deepti Sharma,12,20,1,0,60,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,UP Warriorz Women,6,Devika Vaidya,23,21,2,0,109.52,out,WT20#20
+Delhi Capitals Women Vs UP Warriorz Women,UP Warriorz Women,7,Simran Shaikh,6,4,1,0,150,not_out,WT20#20
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,1,Sabbhineni Meghana,8,11,2,0,72.72,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,2,Sophia Dunkley,65,28,11,3,232.14,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,3,Harleen Deol,67,45,9,1,148.88,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,4,Ashleigh Gardner,19,15,2,0,126.66,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,5,Dayalan Hemalatha,16,7,2,1,228.57,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,6,Annabel Sutherland,14,8,1,1,175,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,7,Sneh Rana,2,3,0,0,66.66,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,8,Kim Garth,3,2,0,0,150,not_out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,9,Sushma Verma,5,2,1,0,250,not_out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,1,Smriti Mandhana,18,14,3,0,128.57,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,2,Sophie Devine,66,45,8,2,146.66,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,3,Ellyse Perry,32,25,5,0,128,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,4,Richa Ghosh,10,10,2,0,100,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,5,Heather Knight,30,11,5,1,272.72,not_out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,6,Kanika Ahuja,10,7,2,0,142.85,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,7,Poonam Khemnar,2,4,0,0,50,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,8,Shreyanka Patil,11,4,1,1,275,not_out,WT20#16
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,1,Meg Lanning,43,41,5,0,104.87,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,2,Shafali Verma,2,6,0,0,33.33,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,3,Alice Capsey,6,7,1,0,85.71,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,4,Marizanne Kapp,2,4,0,0,50,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,5,Jemimah Rodrigues,25,18,3,0,138.88,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,6,Jess Jonassen,2,3,0,0,66.66,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,7,Taniya Bhatia,4,9,0,0,44.44,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,8,Minnu Mani,0,3,0,0,0,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,9,Radha Yadav,10,9,0,1,111.11,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,10,Shikha Pandey,4,8,0,0,50,not_out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,11,Tara Norris,0,1,0,0,0,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,1,Yastika Bhatia,41,32,8,0,128.12,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,2,Hayley Matthews,32,31,6,0,103.22,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,3,Nat Sciver-Brunt,23,19,4,0,121.05,not_out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,4,Harmanpreet Kaur,11,8,2,0,137.5,not_out,WT20#22
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,1,Smriti Mandhana,4,6,0,0,66.66,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,2,Sophie Devine,36,24,5,1,150,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,3,Ellyse Perry,52,39,6,1,133.33,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,4,Kanika Ahuja,8,10,0,0,80,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,5,Heather Knight,2,2,0,0,100,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,6,Shreyanka Patil,15,10,3,0,150,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,7,Erin Burns,12,9,2,0,133.33,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,8,Richa Ghosh,1,1,0,0,100,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,9,Komal Zanzad,5,7,0,0,71.42,not_out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,10,Renuka Singh,3,8,0,0,37.5,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,Royal Challengers Bangalore Women,11,Sahana Pawar,0,1,0,0,0,out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,UP Warriorz Women,1,Devika Vaidya,36,31,5,0,116.12,not_out,WT20#13
+Royal Challengers Bangalore Women Vs UP Warriorz Women,UP Warriorz Women,2,Alyssa Healy,96,47,18,1,204.25,not_out,WT20#13
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,1,Sabbhineni Meghana,0,2,0,0,0,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,2,Laura Wolvaardt,1,2,0,0,50,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,3,Harleen Deol,20,14,4,0,142.85,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,4,Ashleigh Gardner,0,1,0,0,0,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,5,Dayalan Hemalatha,5,5,1,0,100,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,6,Georgia Wareham,22,25,2,0,88,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,7,Sushma Verma,2,10,0,0,20,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,8,Kim Garth,32,37,3,0,86.48,not_out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,9,Tanuja Kanwar,13,19,1,0,68.42,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,10,Sneh Rana,2,3,0,0,66.66,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,11,Mansi Joshi,5,2,1,0,250,not_out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,1,Meg Lanning,21,15,3,0,140,not_out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,2,Shafali Verma,76,28,10,5,271.42,not_out,WT20#14
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,1,Alyssa Healy,58,46,7,1,126.08,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,2,Devika Vaidya,6,5,1,0,120,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,3,Kiran Navgire,17,14,2,1,121.42,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,4,Tahlia McGrath,50,37,9,0,135.13,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,5,Simran Shaikh,9,8,0,0,112.5,not_out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,6,Sophie Ecclestone,1,4,0,0,25,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,7,Deepti Sharma,7,6,1,0,116.66,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,UP Warriorz Women,8,Shweta Sehrawat,2,2,0,0,100,not_out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,Mumbai Indians Women,1,Hayley Matthews,12,17,2,0,70.58,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,Mumbai Indians Women,2,Yastika Bhatia,42,27,8,1,155.55,out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,Mumbai Indians Women,3,Nat Sciver-Brunt,45,31,6,1,145.16,not_out,WT20#21
+UP Warriorz Women Vs Mumbai Indians Women,Mumbai Indians Women,4,Harmanpreet Kaur,53,33,9,1,160.6,not_out,WT20#21
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Royal Challengers Bangalore Women,1,Smriti Mandhana,8,15,1,0,53.33,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Royal Challengers Bangalore Women,2,Sophie Devine,21,19,3,0,110.52,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Royal Challengers Bangalore Women,3,Ellyse Perry,67,52,4,5,128.84,not_out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Royal Challengers Bangalore Women,4,Heather Knight,11,12,1,0,91.66,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Royal Challengers Bangalore Women,5,Richa Ghosh,37,16,3,3,231.25,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Royal Challengers Bangalore Women,6,Shreyanka Patil,4,6,0,0,66.66,not_out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Delhi Capitals Women,1,Meg Lanning,15,18,1,0,83.33,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Delhi Capitals Women,2,Shafali Verma,0,1,0,0,0,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Delhi Capitals Women,3,Alice Capsey,38,24,8,0,158.33,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Delhi Capitals Women,4,Jemimah Rodrigues,32,28,3,0,114.28,out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Delhi Capitals Women,5,Marizanne Kapp,32,32,3,1,100,not_out,WT20#11
+Royal Challengers Bangalore Women Vs Delhi Capitals Women,Delhi Capitals Women,6,Jess Jonassen,29,15,4,1,193.33,not_out,WT20#11
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,1,Yastika Bhatia,44,37,5,1,118.91,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,2,Hayley Matthews,0,3,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,3,Nat Sciver-Brunt,36,31,5,1,116.12,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,4,Harmanpreet Kaur,51,30,7,2,170,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,5,Amelia Kerr,19,13,2,0,146.15,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,6,Issy Wong,0,1,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,7,Humaira Kazi,2,2,0,0,100,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,8,Dhara Gujjar,1,1,0,0,100,not_out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,9,Amanjot Kaur,0,1,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Mumbai Indians Women,10,Jintimani Kalita,2,1,0,0,200,not_out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,1,Sophia Dunkley,0,1,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,2,Sabbhineni Meghana,16,17,3,0,94.11,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,3,Harleen Deol,22,23,3,0,95.65,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,4,Annabel Sutherland,0,4,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,5,Ashleigh Gardner,8,10,1,0,80,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,6,Dayalan Hemalatha,6,6,1,0,100,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,7,Sneh Rana,20,19,3,0,105.26,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,8,Sushma Verma,18,19,1,0,94.73,not_out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,9,Kim Garth,8,8,1,0,100,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,10,Tanuja Kanwar,0,4,0,0,0,out,WT20#12
+Mumbai Indians Women Vs Gujarat Giants Women,Gujarat Giants Women,11,Mansi Joshi,7,9,1,0,77.77,not_out,WT20#12
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,1,Alyssa Healy,1,3,0,0,33.33,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,2,Devika Vaidya,0,1,0,0,0,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,3,Kiran Navgire,22,26,2,1,84.61,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,4,Tahlia McGrath,2,2,0,0,100,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,5,Grace Harris,46,32,5,2,143.75,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,6,Simran Shaikh,2,9,0,0,22.22,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,7,Deepti Sharma,22,19,4,0,115.78,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,8,Shweta Sehrawat,6,6,1,0,100,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,9,Sophie Ecclestone,12,9,2,0,133.33,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,10,Anjali Sarvani,8,9,1,0,88.88,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,UP Warriorz Women,11,Rajeshwari Gayakwad,2,1,0,0,200,not_out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,1,Sophie Devine,14,6,2,1,233.33,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,2,Smriti Mandhana,0,3,0,0,0,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,3,Ellyse Perry,10,13,1,0,76.92,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,4,Heather Knight,24,21,5,0,114.28,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,5,Kanika Ahuja,46,30,8,1,153.33,out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,6,Richa Ghosh,31,32,3,1,96.87,not_out,WT20#13
+UP Warriorz Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,7,Shreyanka Patil,5,3,1,0,166.66,not_out,WT20#13
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,1,Sophia Dunkley,4,6,0,0,66.66,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,2,Laura Wolvaardt,57,45,6,1,126.66,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,3,Harleen Deol,31,33,4,0,93.93,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,4,Ashleigh Gardner,51,33,9,0,154.54,not_out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Gujarat Giants Women,5,Dayalan Hemalatha,1,3,0,0,33.33,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,1,Meg Lanning,18,15,3,0,120,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,2,Shafali Verma,8,7,0,1,114.28,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,3,Alice Capsey,22,11,2,2,200,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,4,Jemimah Rodrigues,1,4,0,0,25,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,5,Marizanne Kapp,36,29,4,1,124.13,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,6,Jess Jonassen,4,10,0,0,40,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,7,Taniya Bhatia,1,4,0,0,25,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,8,Arundhati Reddy,25,17,4,0,147.05,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,9,Radha Yadav,1,3,0,0,33.33,out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,10,Shikha Pandey,8,9,0,0,88.88,not_out,WT20#14
+Gujarat Giants Women Vs Delhi Capitals Women,Delhi Capitals Women,11,Poonam Yadav,0,3,0,0,0,out,WT20#14
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,1,Hayley Matthews,35,30,1,3,116.66,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,2,Yastika Bhatia,7,15,0,0,46.66,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,3,Nat Sciver-Brunt,5,8,1,0,62.5,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,4,Harmanpreet Kaur,25,22,3,0,113.63,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,5,Amelia Kerr,3,5,0,0,60,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,6,Issy Wong,32,19,4,1,168.42,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,7,Amanjot Kaur,5,7,0,0,71.42,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,8,Humaira Kazi,4,6,0,0,66.66,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,9,Dhara Gujjar,3,3,0,0,100,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,10,Jintimani Kalita,3,3,0,0,100,not_out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,11,Saika Ishaque,0,2,0,0,0,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,1,Devika Vaidya,1,7,0,0,14.28,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,2,Alyssa Healy,8,10,1,0,80,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,3,Kiran Navgire,12,16,1,1,75,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,4,Tahlia McGrath,38,25,6,1,152,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,5,Grace Harris,39,28,7,0,139.28,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,6,Deepti Sharma,13,14,1,0,92.85,not_out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,7,Sophie Ecclestone,16,17,1,1,94.11,not_out,WT20#21
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,1,Sophia Dunkley,16,10,3,0,160,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,2,Laura Wolvaardt,68,42,9,2,161.9,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,3,Sabbhineni Meghana,31,32,4,0,96.87,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,4,Ashleigh Gardner,41,26,6,1,157.69,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,5,Dayalan Hemalatha,16,6,2,1,266.66,not_out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Gujarat Giants Women,6,Harleen Deol,12,5,1,1,240,not_out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,1,Smriti Mandhana,37,31,5,1,119.35,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,2,Sophie Devine,99,36,9,8,275,out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,3,Ellyse Perry,19,12,3,0,158.33,not_out,WT20#16
+Gujarat Giants Women Vs Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,4,Heather Knight,22,15,4,0,146.66,not_out,WT20#16
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,1,Sophia Dunkley,23,13,3,0,176.92,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,2,Laura Wolvaardt,17,13,1,2,130.76,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,3,Harleen Deol,4,7,1,0,57.14,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,4,Dayalan Hemalatha,57,33,6,3,172.72,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,5,Ashleigh Gardner,60,39,6,3,153.84,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,6,Sushma Verma,8,9,1,0,88.88,not_out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,7,Ashwani Kumari,5,5,0,0,100,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,Gujarat Giants Women,8,Kim Garth,1,1,0,0,100,not_out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,1,Devika Vaidya,7,8,1,0,87.5,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,2,Alyssa Healy,12,8,3,0,150,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,3,Kiran Navgire,4,4,1,0,100,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,4,Tahlia McGrath,57,38,11,0,150,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,5,Grace Harris,72,41,7,4,175.6,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,6,Deepti Sharma,6,5,1,0,120,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,7,Sophie Ecclestone,19,13,2,0,146.15,not_out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,8,Simran Shaikh,1,2,0,0,50,out,WT20#17
+Gujarat Giants Women Vs UP Warriorz Women,UP Warriorz Women,9,Anjali Sarvani,0,0,0,0,-,not_out,WT20#17
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,1,Yastika Bhatia,1,6,0,0,16.66,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,2,Hayley Matthews,5,10,1,0,50,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,3,Nat Sciver-Brunt,0,1,0,0,0,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,4,Harmanpreet Kaur,23,26,3,0,88.46,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,5,Amelia Kerr,8,16,1,0,50,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,6,Pooja Vastrakar,26,19,3,1,136.84,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,7,Issy Wong,23,24,0,1,95.83,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,8,Amanjot Kaur,19,16,2,0,118.75,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Mumbai Indians Women,9,Humaira Kazi,2,2,0,0,100,not_out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Delhi Capitals Women,1,Meg Lanning,32,22,4,1,145.45,not_out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Delhi Capitals Women,2,Shafali Verma,33,15,6,1,220,out,WT20#22
+Mumbai Indians Women Vs Delhi Capitals Women,Delhi Capitals Women,3,Alice Capsey,38,17,1,5,223.52,not_out,WT20#22
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,1,Smriti Mandhana,24,25,3,1,96,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,2,Sophie Devine,0,2,0,0,0,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,3,Ellyse Perry,29,38,3,0,76.31,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,4,Heather Knight,12,13,1,0,92.3,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,5,Kanika Ahuja,12,13,1,0,92.3,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,6,Richa Ghosh,29,13,3,2,223.07,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,7,Shreyanka Patil,4,3,1,0,133.33,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,8,Megan Schutt,2,5,0,0,40,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,9,Disha Kasat,2,5,0,0,40,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Royal Challengers Bangalore Women,10,Sobhana Asha,4,3,0,0,133.33,not_out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,1,Hayley Matthews,24,17,2,1,141.17,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,2,Yastika Bhatia,30,26,6,0,115.38,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,3,Nat Sciver-Brunt,13,7,1,1,185.71,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,4,Harmanpreet Kaur,2,5,0,0,40,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,5,Amelia Kerr,31,27,4,0,114.81,not_out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,6,Pooja Vastrakar,19,18,2,0,105.55,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,7,Issy Wong,0,1,0,0,0,out,WT20#19
+Royal Challengers Bangalore Women Vs Mumbai Indians Women,Mumbai Indians Women,8,Amanjot Kaur,0,0,0,0,-,not_out,WT20#19
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,1,Alyssa Healy,36,34,4,1,105.88,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,2,Shweta Sehrawat,19,12,4,0,158.33,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,3,Simran Shaikh,11,23,1,0,47.82,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,4,Tahlia McGrath,58,32,8,2,181.25,not_out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,5,Kiran Navgire,2,3,0,0,66.66,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,6,Deepti Sharma,3,8,0,0,37.5,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,7,Sophie Ecclestone,0,2,0,0,0,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,UP Warriorz Women,8,Anjali Sarvani,3,6,0,0,50,not_out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,Delhi Capitals Women,1,Meg Lanning,39,23,5,2,169.56,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,Delhi Capitals Women,2,Shafali Verma,21,16,4,0,131.25,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,Delhi Capitals Women,3,Jemimah Rodrigues,3,3,0,0,100,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,Delhi Capitals Women,4,Marizanne Kapp,34,31,4,1,109.67,not_out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,Delhi Capitals Women,5,Alice Capsey,34,31,4,1,109.67,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,Delhi Capitals Women,6,Jess Jonassen,0,5,0,0,0,out,WT20#20
+UP Warriorz Women Vs Delhi Capitals Women,Delhi Capitals Women,7,Arundhati Reddy,0,0,0,0,-,not_out,WT20#20
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,1,Yastika Bhatia,21,18,4,0,116.66,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,2,Hayley Matthews,26,26,2,1,100,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,3,Nat Sciver-Brunt,72,38,9,2,189.47,not_out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,4,Harmanpreet Kaur,14,15,1,0,93.33,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,5,Amelia Kerr,29,19,5,0,152.63,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,Mumbai Indians Women,6,Pooja Vastrakar,11,4,1,1,275,not_out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,1,Alyssa Healy,11,6,2,0,183.33,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,2,Shweta Sehrawat,1,8,0,0,12.5,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,3,Tahlia McGrath,7,6,1,0,116.66,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,4,Kiran Navgire,43,27,4,3,159.25,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,5,Grace Harris,14,12,3,0,116.66,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,6,Deepti Sharma,16,20,3,0,80,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,7,Simran Shaikh,0,1,0,0,0,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,8,Sophie Ecclestone,0,1,0,0,0,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,9,Anjali Sarvani,5,11,0,0,45.45,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,10,Rajeshwari Gayakwad,5,9,1,0,55.55,out,WT20#21
+Mumbai Indians Women Vs UP Warriorz Women,UP Warriorz Women,11,Parshavi Chopra,0,5,0,0,0,not_out,WT20#21
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,1,Meg Lanning,35,29,5,0,120.68,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,2,Shafali Verma,11,4,1,1,275,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,3,Alice Capsey,0,2,0,0,0,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,4,Jemimah Rodrigues,9,8,2,0,112.5,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,5,Marizanne Kapp,18,21,2,0,85.71,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,6,Jess Jonassen,2,11,0,0,18.18,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,7,Arundhati Reddy,0,5,0,0,0,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,8,Shikha Pandey,27,17,3,1,158.82,not_out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,9,Minnu Mani,1,9,0,0,11.11,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,10,Taniya Bhatia,0,2,0,0,0,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Delhi Capitals Women,11,Radha Yadav,27,12,2,2,225,not_out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,1,Hayley Matthews,13,12,3,0,108.33,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,2,Yastika Bhatia,4,3,1,0,133.33,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,3,Nat Sciver-Brunt,60,55,7,0,109.09,not_out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,4,Harmanpreet Kaur,37,39,5,0,94.87,out,WT20#22
+Delhi Capitals Women Vs Mumbai Indians Women,Mumbai Indians Women,5,Amelia Kerr,14,8,2,0,175,not_out,WT20#22
