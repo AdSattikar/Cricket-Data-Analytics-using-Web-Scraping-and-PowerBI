@@ -2,8 +2,6 @@
 
 This is a project to predict the best playing 11 for the recently concluded Womens Premier League (WPL) 2023 cricket tournament.
 
-![Logo](logo.jpg)
-
 ## Data Collection
 
 The data is collected using BeautifulSoup (bs4) to scrape data from [ESPNCricinfo](https://www.espncricinfo.com/records/tournament/team-match-results/women-s-premier-league-2022-23-15174) for match details, batter details, bowler details, and player details, and images from [WPL](https://www.wplt20.com/teams). The data is collected in the form of a dictionary and then converted to JSON. The JSON files are then loaded into the Data Preprocessing.ipynb file, where data preprocessing is performed using pandas, and respective dataframes are created. The dataframes are then converted to CSV files that are loaded into Power Query and DAX for data modeling.
