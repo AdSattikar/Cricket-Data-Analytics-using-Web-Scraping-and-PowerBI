@@ -1,6 +1,7 @@
 # Women's Premier League Dream 11 Predictor
 
 This is a project to predict the best playing 11 for the recently concluded Womens Premier League (WPL) 2023 cricket tournament.
+![WPL Dream 11](https://github.com/AdSattikar/WPL-Dream-Team-Prediction/assets/78402053/dd6b0fba-027d-4842-92d9-40638f1dd76e)
 
 ## Data Collection
 
